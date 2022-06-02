@@ -1,8 +1,8 @@
 # Package
 
 version       = "0.1.0"
-author        = "Luciano Lorenzo"
-description   = "A new awesome nimble package"
+author        = "Thiago Navarro"
+description   = "Useragents (WIP)"
 license       = "MIT"
 srcDir        = "src"
 
